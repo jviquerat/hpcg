@@ -1,6 +1,6 @@
 # HPCG
 
-HPCG is a widespread benchmark used to evalutate performance of HPC architectures. The project is hosted <a href="https://www.hpcg-benchmark.org/">here</a>. Below is just a short tutorial on how to use it.
+HPCG is a widespread benchmark used to evalutate performance of HPC architectures. The project is hosted <a href="https://www.hpcg-benchmark.org/">here</a>. Below is just a short tutorial on how to use it, for weak and strong scaling studies. Be aware that HPCG is strongly memory-bound, so running a benchmark with it will mostly test the memory bandwidth of your system.
 
 ## Compiling
 
